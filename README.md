@@ -21,7 +21,7 @@ This project analyzes early-game (first 10 minutes) League of Legends match data
 ## Modeling
 - Logistic Regression with standardized features
 - 80/20 train-test split
-- Achieved ~72% accuracy on unseen data
+- Achieved ~82% accuracy on unseen data
 
 ## Key Insights
 - Early economic advantage (gold + experience) had the largest influence on predictions
